@@ -1,0 +1,38 @@
+body{
+    background-color: snow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(91, 190, 255);
+}
+td{
+    border: 2px solid rgb(0, 0, 0);
+    color: snow;
+    text-align: center;
+}
+
+.fondo{
+    background-color: lightslategray;
+}
+
+.fondo1{
+    background-color: darkgrey;
+}
+
+.fondo2{
+    background-color: dodgerblue;
+}
+
+.fondo3{
+    background-color: seagreen;
+}
+
+.fondo4{
+    background-color: crimson;
+}
+
+.fondo5{
+    background-color: gold;
+}
+
+.fondo6{
+    background-color: orangered;
+}
